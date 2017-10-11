@@ -1,25 +1,13 @@
-# Module 1 Group Assignment: The Describerator
-
-CSCI 5117, Fall 2017
-
-[Assignment description](https://docs.google.com/document/d/1956Z3EZJi9RWU6JqPHEh5ZZBmDOKFex-HtsBLz66tt4/edit#)
-
-Please fill out all of the following sections to help us grade your submission:
-
-
 ## Name of App: x
 
-Log Analyser
+Apache Log Analyser
 
-## Name of Team: x
-val=n;
+## Authors
 
-## Students
-
+* Vaybhav Shaw, shaw0162@umn.edu
 * Lakshya Goel, goel0072@umn.edu
 * Nishka Monteiro, monte299@umn.edu
 * Akifumi Nakamachi, nakam052@umn.edu
-* Vaybhav Shaw, shaw0162@umn.edu
 
 
 ## Link to Site
@@ -27,15 +15,15 @@ val=n;
 <https://tranquil-taiga-64587.herokuapp.com/>
 
 
-## Key Features
+## Description
+Uploading and analysing Apache Web Server Logs and visualising details such as :-
+- Browser Pie Chart
+- Average Data Size vs Time
+- Number of Hits vs Time 
+- File Type returned analysis
 
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
-* Implementing the project without using a database and using JSON
-* Implementing the Regression model to predict time vs hits
-* Implementing a project without using APIs for data analysis
-
+We have also predicted the number of hits at a specific time using logistical regression with a third degree polynomial.
+Technologies used : Express, Node.JS, HandleBars, BULMA, HTML, JSON 
 
 
 ## Screenshots of Site
@@ -65,10 +53,6 @@ Please do not document required libraries (e.g., Express, Bulma).**
 - [Sass](http://sass-lang.com/): css preprocessor
 - [Ruby](https://www.ruby-lang.org/en/): to use Sass
 - [jquery flip](http://nnattawat.github.io/flip/): to add flip animation
-
-**If there's anything else you would like to disclose about how your project
-relied on external code, expertise, or anything else, please disclose that
-here:**
 
 
 ## Links to Test Data
