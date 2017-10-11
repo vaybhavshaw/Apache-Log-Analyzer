@@ -40,9 +40,6 @@ along with a very brief caption:**
 
 ## External Dependencies
 
-**Document integrations with 3rd Party code or services here.
-Please do not document required libraries (e.g., Express, Bulma).**
-
 - [jquery3.2.1](https://jquery.com/): parsing dom, form processing
 - [d3.js](https://d3js.org/): to using nv.d3
 - [nv.d3.js](http://nvd3.org/): generating graph, chart
